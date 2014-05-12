@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnimatingImageView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Menu options-->
+    <string name="is_animating">Is animating</string>
+    <string name="start_animation">Start animation</string>
+    <string name="stop_animation">Stop animation</string>
+    <string name="reset_animation">Reset animation</string>
+    <string name="set_start_delay">Set start delay</string>
+</resources>

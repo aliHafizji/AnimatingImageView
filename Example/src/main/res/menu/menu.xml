@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/is_animating"
+        android:title="@string/is_animating"
+        android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/start_animation"
+        android:title="@string/start_animation" />
+
+    <item android:id="@+id/stop_animation"
+        android:title="@string/stop_animation" />
+
+    <item android:id="@+id/reset_animation"
+        android:title="@string/reset_animation" />
+
+    <item android:id="@+id/set_start_delay"
+        android:title="@string/set_start_delay" />
+</menu>
